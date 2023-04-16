@@ -1,5 +1,5 @@
 ### Hello! My name is Carl Linmuel Beltran, I'm a Third Year BSIT Student here in Central Philippine University!
-Here are my 5 fun or interesting facts about me.
+
 *** ***
 - I enjoy playing video games like Dota2, Valorant, Wild Rift and some other video games.
 - I'm a KPOP enthusiast especially TWICE.
