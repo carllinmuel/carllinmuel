@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello! My name is Carl Linmuel Beltran, I'm a Third Year BSIT Student here in Central Philippine University!
+Here are my 5 fun or interesting facts about me.
+*** ***
+- I enjoy playing video games like Dota2, Valorant, Wild Rift and some other video games.
+- I'm a KPOP enthusiast especially TWICE.
+- I like riding motorcycle and travel to the places I want to go.
+- I like to eat ice cream.
+- Lastly, I like listening to music.
+
 
 <!--
 **carllinmuel/carllinmuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
